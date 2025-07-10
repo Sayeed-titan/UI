@@ -1,0 +1,15 @@
+mat-toolbar{
+    .user-info {
+        display: flex;
+        align-items: center;
+
+        .name {
+            margin-right: 20px;
+            color: white;
+        }
+
+        button {
+            margin-left: 10px;
+        }
+    }
+}
